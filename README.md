@@ -1,1 +1,1 @@
-# exercism.io splutions
+# exercism.io solutions
